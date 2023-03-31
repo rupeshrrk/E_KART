@@ -1,0 +1,21 @@
+﻿{
+  "URL": "https://magento.softwaretestingboard.com/?ref=hackernoon.com",
+  "BrowserName": "Chrome",
+
+  "PriceCodePremium": "Premium",
+  "PriceCodeBudget": "Budget",
+  "Gender": "Female",
+  "Color": "Red",  //Budget- (Green,Blue,Gray), Premium - (Red, Orange,White)
+  "Size": "M",
+  "Quantity": 6,
+  "ItemName": "Proteus Fitness Jackshirt",
+
+  "Email": "Rajesh@gmail.com",
+  "FirstName": "Rajesh",
+  "LastName": "R C",
+  "Street": "Street No 10",
+  "City": "Los Angels",
+  "State": "California",
+  "ZipCode": "90001",
+  "Telephone": "9878987656"
+}
