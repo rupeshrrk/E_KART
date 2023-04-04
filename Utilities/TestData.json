@@ -5,7 +5,7 @@
   "PriceCodePremium": "Premium",
   "PriceCodeBudget": "Budget",
   "Gender": "Female",
-  "Color": "Red",  //Budget- (Green,Blue,Gray), Premium - (Red, Orange,White)
+  "Color": "Blue",  //Budget- (Green,Blue,Gray), Premium - (Red, Orange,White)
   "Size": "M",
   "Quantity": 6,
   "ItemName": "Proteus Fitness Jackshirt",
